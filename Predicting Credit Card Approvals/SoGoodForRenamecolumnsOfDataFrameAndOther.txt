@@ -1,0 +1,1 @@
+https://www.marsja.se/how-to-get-the-column-names-from-a-pandas-dataframe-print-and-list/ operatii cu numele coloanelor dintr-un dataframe
